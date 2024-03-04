@@ -1,3 +1,4 @@
 SELECT
-    test
+    test,
+    training
 FROM
